@@ -7,7 +7,7 @@ Backend-focused Software Engineer with 5+ years of experience designing high-per
 
 ### 🏆 Honors, Certifications & Achievements
 <p>
-  <img src="https://img.shields.io/badge/🏆_Overall_Best_Student_of_year_--_NIIT_Lagos_(2016)-FFD700?style=for-the-badge&logoColor=black" alt="Best Student Award" />
+  <img src="https://img.shields.io/badge/🏆_Overall_Best_Student_of_Year_--_NIIT_Lagos_(2016)-FFD700?style=for-the-badge&logoColor=black" alt="Best Student Award" />
   <img src="https://img.shields.io/badge/📜_Certified_Oracle_Primavera_P6-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Primavera P6" />
   <img src="https://img.shields.io/badge/🎓_B.Sc._Computer_Science-0056B3?style=for-the-badge&logoColor=white" alt="BSc Computer Science" />
   <img src="https://img.shields.io/badge/👨‍🏫_500+_Developers_Mentored-2E8B57?style=for-the-badge&logoColor=white" alt="Mentorship" />
